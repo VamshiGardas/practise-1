@@ -1,0 +1,25 @@
+/*back ground color*/
+body {
+  background-color: lightgrey;
+}
+
+/* styles.css */
+
+/* CSS for p1 */
+
+#p1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: lighter;
+  color: red;
+  text-align: center;
+}
+
+/* CSS for p2 */
+#p2 {
+  text-align: left;
+  background-color: yellow;
+}
+#n {
+  color: blue;
+}
